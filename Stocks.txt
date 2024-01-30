@@ -1,0 +1,14 @@
+Item_ID       Name       Price       Quantity        Total Price           
+1 Biryani, 180 26 4680
+2 Pizza, 1500 9 13500
+3 Pulao, 180 30 5400
+4 Chicken, 220 23 5060
+5 Chaat, 100 20 2000
+6 Samosa, 30 15 450
+7 Beef Burger, 250 29 7250
+8 Zinger Burger, 300 13 3900
+9 Chai, 40 20 800
+10 Coffee, 150 25 3750
+11 Apple Juice, 200 10 2000
+12 Sandwich, 220 13 2860
+13 Pakoras, 100 16 1600
